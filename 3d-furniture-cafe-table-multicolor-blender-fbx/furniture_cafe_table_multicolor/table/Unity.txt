@@ -1,0 +1,8 @@
+3D Object -> WindZone
+Lighting -> Enviorement -> Fog Kullanarak yüksek kalitede oyun yapıp  uzakları göstermediği için
+az donanım kaynağı harcayabilirsin.
+Exponiental Squared
+
+https://www.btkakademi.gov.tr/portal/course/player/deliver/unity-ile-3d-oyun-gelistirme-22259
+5. Terrain Tool
+5.13 Son Rötüşlendirmeye giriş
